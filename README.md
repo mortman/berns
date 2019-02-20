@@ -1,7 +1,8 @@
 Berns
 =============
 
-Chrome extension inspired by http://xkcd.com/1288/ and cloud-to-butt
+Chrome extension inspired by http://xkcd.com/1288/ and cloud-to-butt.
+
 Changes Bernie Sanders references to "funny" things
 
 
